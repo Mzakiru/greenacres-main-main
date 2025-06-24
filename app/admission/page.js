@@ -25,7 +25,7 @@ const Admission = () => {
             <div className='absolute mb-8 space-y-4 mx-5 drop-shadow-2xl shadow-inner'>
               <hr />
               <h1 className='text-2xl pt-4 font-bold'>Inquire to Learn More</h1>
-              <p className='mb-24 text-sm '>Take the first step to growing our community today!</p>
+              <p className='mb-24 text-sm '>Take the first step to growing our community today</p>
               <h3 className='mb-24 text-md font-semibold'>Inquire Now</h3>
             </div>
 
